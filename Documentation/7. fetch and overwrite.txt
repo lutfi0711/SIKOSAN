@@ -1,0 +1,7 @@
+Provided that the remote repository is origin, and that you're interested in master:
+
+git fetch origin
+git reset --hard origin/master
+This tells it to fetch the commits from the remote repository, and position your working copy to the tip of its master branch.
+
+All your local commits not common to the remote will be gone.
