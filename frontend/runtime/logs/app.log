@@ -632,3 +632,522 @@ $_SERVER = [
     'REQUEST_TIME_FLOAT' => 1516130259.145
     'REQUEST_TIME' => 1516130259
 ]
+2018-01-16 21:06:24 [::1][1][q2amcg7d920fhjg0ne0d3h63e2][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "admin". in C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\Module.php:537
+Stack trace:
+#0 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('admin', Array)
+#1 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 C:\xampp\htdocs\sikosan\frontend\web\index.php(17): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 C:\xampp\htdocs\sikosan\frontend\web\index.php(17): yii\base\Application->run()
+#2 {main}
+2018-01-16 21:06:24 [::1][1][q2amcg7d920fhjg0ne0d3h63e2][info][application] $_GET = [
+    'r' => 'admin'
+]
+
+$_COOKIE = [
+    '_csrf-frontend' => 'e62fd04aebfa422861bb8001021a965862c9e4b06f9460d8f50219e78661098aa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"3BLSvI4QJLF_NbR4uJokItlmOXrymtF_\";}'
+    'advanced-frontend' => 'q2amcg7d920fhjg0ne0d3h63e2'
+    '_identity-frontend' => 'f0d07269124aaad1fc4d09db538746b53bc36eee645da5cda8c089dcf164e4a5a:2:{i:0;s:18:\"_identity-frontend\";i:1;s:46:\"[1,\"h1ySjxVZCCDlK-WM9oUBAPssyJpTV-Gj\",2592000]\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 1
+    '__captcha/site/captcha' => 'fomedo'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'MIBDIRS' => 'C:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'C:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7'
+    'HTTP_COOKIE' => '_csrf-frontend=e62fd04aebfa422861bb8001021a965862c9e4b06f9460d8f50219e78661098aa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%223BLSvI4QJLF_NbR4uJokItlmOXrymtF_%22%3B%7D; advanced-frontend=q2amcg7d920fhjg0ne0d3h63e2; _identity-frontend=f0d07269124aaad1fc4d09db538746b53bc36eee645da5cda8c089dcf164e4a5a%3A2%3A%7Bi%3A0%3Bs%3A18%3A%22_identity-frontend%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%22h1ySjxVZCCDlK-WM9oUBAPssyJpTV-Gj%22%2C2592000%5D%22%3B%7D'
+    'PATH' => 'C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\; C:\\xampp\\php\\'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/7.0.9 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/7.0.9'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'C:/xampp/htdocs/sikosan/frontend/web/index.php'
+    'REMOTE_PORT' => '51108'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=admin'
+    'REQUEST_URI' => '/sikosan/frontend/web/index.php?r=admin'
+    'SCRIPT_NAME' => '/sikosan/frontend/web/index.php'
+    'PHP_SELF' => '/sikosan/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516133184.17
+    'REQUEST_TIME' => 1516133184
+]
+2018-01-17 04:43:44 [::1][-][0h6ubaq6i4taa31kuce5aulhf3][error][ParseError] ParseError: syntax error, unexpected '=>' (T_DOUBLE_ARROW) in C:\xampp\htdocs\sikosan\frontend\views\site\index.php:14
+Stack trace:
+#0 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\View.php(250): yii\base\View->renderPhpFile('C:\\xampp\\htdocs...', Array)
+#1 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\View.php(152): yii\base\View->renderFile('C:\\xampp\\htdocs...', Array, Object(frontend\controllers\SiteController))
+#2 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\Controller.php(384): yii\base\View->render('index', Array, Object(frontend\controllers\SiteController))
+#3 C:\xampp\htdocs\sikosan\frontend\controllers\SiteController.php(75): yii\base\Controller->render('index')
+#4 [internal function]: frontend\controllers\SiteController->actionIndex()
+#5 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#7 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('index', Array)
+#8 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('site/index', Array)
+#9 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#10 C:\xampp\htdocs\sikosan\frontend\web\index.php(17): yii\base\Application->run()
+#11 {main}
+2018-01-17 04:43:44 [::1][-][0h6ubaq6i4taa31kuce5aulhf3][info][application] $_GET = [
+    'r' => 'site/index'
+]
+
+$_COOKIE = [
+    '_csrf-frontend' => 'e62fd04aebfa422861bb8001021a965862c9e4b06f9460d8f50219e78661098aa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"3BLSvI4QJLF_NbR4uJokItlmOXrymtF_\";}'
+    'advanced-frontend' => '0h6ubaq6i4taa31kuce5aulhf3'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'fxsyzlt'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'MIBDIRS' => 'C:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'C:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7'
+    'HTTP_COOKIE' => '_csrf-frontend=e62fd04aebfa422861bb8001021a965862c9e4b06f9460d8f50219e78661098aa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%223BLSvI4QJLF_NbR4uJokItlmOXrymtF_%22%3B%7D; advanced-frontend=0h6ubaq6i4taa31kuce5aulhf3'
+    'PATH' => 'C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\; C:\\xampp\\php\\'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/7.0.9 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/7.0.9'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'C:/xampp/htdocs/sikosan/frontend/web/index.php'
+    'REMOTE_PORT' => '52571'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Findex'
+    'REQUEST_URI' => '/sikosan/frontend/web/index.php?r=site%2Findex'
+    'SCRIPT_NAME' => '/sikosan/frontend/web/index.php'
+    'PHP_SELF' => '/sikosan/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516160624.443
+    'REQUEST_TIME' => 1516160624
+]
+2018-01-17 04:44:46 [::1][-][0h6ubaq6i4taa31kuce5aulhf3][error][ParseError] ParseError: syntax error, unexpected '=>' (T_DOUBLE_ARROW) in C:\xampp\htdocs\sikosan\frontend\views\site\index.php:14
+Stack trace:
+#0 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\View.php(250): yii\base\View->renderPhpFile('C:\\xampp\\htdocs...', Array)
+#1 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\View.php(152): yii\base\View->renderFile('C:\\xampp\\htdocs...', Array, Object(frontend\controllers\SiteController))
+#2 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\Controller.php(384): yii\base\View->render('index', Array, Object(frontend\controllers\SiteController))
+#3 C:\xampp\htdocs\sikosan\frontend\controllers\SiteController.php(75): yii\base\Controller->render('index')
+#4 [internal function]: frontend\controllers\SiteController->actionIndex()
+#5 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#7 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('index', Array)
+#8 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('site/index', Array)
+#9 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#10 C:\xampp\htdocs\sikosan\frontend\web\index.php(17): yii\base\Application->run()
+#11 {main}
+2018-01-17 04:44:46 [::1][-][0h6ubaq6i4taa31kuce5aulhf3][info][application] $_GET = [
+    'r' => 'site/index'
+]
+
+$_COOKIE = [
+    '_csrf-frontend' => 'e62fd04aebfa422861bb8001021a965862c9e4b06f9460d8f50219e78661098aa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"3BLSvI4QJLF_NbR4uJokItlmOXrymtF_\";}'
+    'advanced-frontend' => '0h6ubaq6i4taa31kuce5aulhf3'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'fxsyzlt'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'MIBDIRS' => 'C:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'C:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7'
+    'HTTP_COOKIE' => '_csrf-frontend=e62fd04aebfa422861bb8001021a965862c9e4b06f9460d8f50219e78661098aa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%223BLSvI4QJLF_NbR4uJokItlmOXrymtF_%22%3B%7D; advanced-frontend=0h6ubaq6i4taa31kuce5aulhf3'
+    'PATH' => 'C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\; C:\\xampp\\php\\'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/7.0.9 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/7.0.9'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'C:/xampp/htdocs/sikosan/frontend/web/index.php'
+    'REMOTE_PORT' => '52579'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Findex'
+    'REQUEST_URI' => '/sikosan/frontend/web/index.php?r=site%2Findex'
+    'SCRIPT_NAME' => '/sikosan/frontend/web/index.php'
+    'PHP_SELF' => '/sikosan/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516160686.765
+    'REQUEST_TIME' => 1516160686
+]
+2018-01-17 04:44:50 [::1][-][0h6ubaq6i4taa31kuce5aulhf3][error][ParseError] ParseError: syntax error, unexpected '=>' (T_DOUBLE_ARROW) in C:\xampp\htdocs\sikosan\frontend\views\site\index.php:14
+Stack trace:
+#0 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\View.php(250): yii\base\View->renderPhpFile('C:\\xampp\\htdocs...', Array)
+#1 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\View.php(152): yii\base\View->renderFile('C:\\xampp\\htdocs...', Array, Object(frontend\controllers\SiteController))
+#2 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\Controller.php(384): yii\base\View->render('index', Array, Object(frontend\controllers\SiteController))
+#3 C:\xampp\htdocs\sikosan\frontend\controllers\SiteController.php(75): yii\base\Controller->render('index')
+#4 [internal function]: frontend\controllers\SiteController->actionIndex()
+#5 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#7 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('index', Array)
+#8 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('site/index', Array)
+#9 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#10 C:\xampp\htdocs\sikosan\frontend\web\index.php(17): yii\base\Application->run()
+#11 {main}
+2018-01-17 04:44:50 [::1][-][0h6ubaq6i4taa31kuce5aulhf3][info][application] $_GET = [
+    'r' => 'site/index'
+]
+
+$_COOKIE = [
+    '_csrf-frontend' => 'e62fd04aebfa422861bb8001021a965862c9e4b06f9460d8f50219e78661098aa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"3BLSvI4QJLF_NbR4uJokItlmOXrymtF_\";}'
+    'advanced-frontend' => '0h6ubaq6i4taa31kuce5aulhf3'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'fxsyzlt'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'MIBDIRS' => 'C:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'C:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_REFERER' => 'http://localhost/sikosan/frontend/web/index.php?r=site%2Fabout'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7'
+    'HTTP_COOKIE' => '_csrf-frontend=e62fd04aebfa422861bb8001021a965862c9e4b06f9460d8f50219e78661098aa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%223BLSvI4QJLF_NbR4uJokItlmOXrymtF_%22%3B%7D; advanced-frontend=0h6ubaq6i4taa31kuce5aulhf3'
+    'PATH' => 'C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\; C:\\xampp\\php\\'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/7.0.9 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/7.0.9'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'C:/xampp/htdocs/sikosan/frontend/web/index.php'
+    'REMOTE_PORT' => '52580'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Findex'
+    'REQUEST_URI' => '/sikosan/frontend/web/index.php?r=site%2Findex'
+    'SCRIPT_NAME' => '/sikosan/frontend/web/index.php'
+    'PHP_SELF' => '/sikosan/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516160690.267
+    'REQUEST_TIME' => 1516160690
+]
+2018-01-17 04:45:04 [::1][-][0h6ubaq6i4taa31kuce5aulhf3][error][ParseError] ParseError: syntax error, unexpected '=>' (T_DOUBLE_ARROW) in C:\xampp\htdocs\sikosan\frontend\views\site\index.php:14
+Stack trace:
+#0 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\View.php(250): yii\base\View->renderPhpFile('C:\\xampp\\htdocs...', Array)
+#1 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\View.php(152): yii\base\View->renderFile('C:\\xampp\\htdocs...', Array, Object(frontend\controllers\SiteController))
+#2 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\Controller.php(384): yii\base\View->render('index', Array, Object(frontend\controllers\SiteController))
+#3 C:\xampp\htdocs\sikosan\frontend\controllers\SiteController.php(75): yii\base\Controller->render('index')
+#4 [internal function]: frontend\controllers\SiteController->actionIndex()
+#5 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#7 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('index', Array)
+#8 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('site/index', Array)
+#9 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#10 C:\xampp\htdocs\sikosan\frontend\web\index.php(17): yii\base\Application->run()
+#11 {main}
+2018-01-17 04:45:04 [::1][-][0h6ubaq6i4taa31kuce5aulhf3][info][application] $_GET = [
+    'r' => 'site/index'
+]
+
+$_COOKIE = [
+    '_csrf-frontend' => 'e62fd04aebfa422861bb8001021a965862c9e4b06f9460d8f50219e78661098aa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"3BLSvI4QJLF_NbR4uJokItlmOXrymtF_\";}'
+    'advanced-frontend' => '0h6ubaq6i4taa31kuce5aulhf3'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'fxsyzlt'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'MIBDIRS' => 'C:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'C:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7'
+    'HTTP_COOKIE' => '_csrf-frontend=e62fd04aebfa422861bb8001021a965862c9e4b06f9460d8f50219e78661098aa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%223BLSvI4QJLF_NbR4uJokItlmOXrymtF_%22%3B%7D; advanced-frontend=0h6ubaq6i4taa31kuce5aulhf3'
+    'PATH' => 'C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\; C:\\xampp\\php\\'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/7.0.9 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/7.0.9'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'C:/xampp/htdocs/sikosan/frontend/web/index.php'
+    'REMOTE_PORT' => '52585'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Findex'
+    'REQUEST_URI' => '/sikosan/frontend/web/index.php?r=site%2Findex'
+    'SCRIPT_NAME' => '/sikosan/frontend/web/index.php'
+    'PHP_SELF' => '/sikosan/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516160704.804
+    'REQUEST_TIME' => 1516160704
+]
+2018-01-17 04:53:12 [::1][-][0h6ubaq6i4taa31kuce5aulhf3][error][Error] Error: Class 'Url' not found in C:\xampp\htdocs\sikosan\frontend\views\site\index.php:14
+Stack trace:
+#0 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\View.php(332): require()
+#1 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\View.php(250): yii\base\View->renderPhpFile('C:\\xampp\\htdocs...', Array)
+#2 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\View.php(152): yii\base\View->renderFile('C:\\xampp\\htdocs...', Array, Object(frontend\controllers\SiteController))
+#3 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\Controller.php(384): yii\base\View->render('index', Array, Object(frontend\controllers\SiteController))
+#4 C:\xampp\htdocs\sikosan\frontend\controllers\SiteController.php(75): yii\base\Controller->render('index')
+#5 [internal function]: frontend\controllers\SiteController->actionIndex()
+#6 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#7 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#8 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('index', Array)
+#9 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('site/index', Array)
+#10 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 C:\xampp\htdocs\sikosan\frontend\web\index.php(17): yii\base\Application->run()
+#12 {main}
+2018-01-17 04:53:12 [::1][-][0h6ubaq6i4taa31kuce5aulhf3][info][application] $_GET = [
+    'r' => 'site/index'
+]
+
+$_COOKIE = [
+    '_csrf-frontend' => 'e62fd04aebfa422861bb8001021a965862c9e4b06f9460d8f50219e78661098aa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"3BLSvI4QJLF_NbR4uJokItlmOXrymtF_\";}'
+    'advanced-frontend' => '0h6ubaq6i4taa31kuce5aulhf3'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'fxsyzlt'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'MIBDIRS' => 'C:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'C:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7'
+    'HTTP_COOKIE' => '_csrf-frontend=e62fd04aebfa422861bb8001021a965862c9e4b06f9460d8f50219e78661098aa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%223BLSvI4QJLF_NbR4uJokItlmOXrymtF_%22%3B%7D; advanced-frontend=0h6ubaq6i4taa31kuce5aulhf3'
+    'PATH' => 'C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\; C:\\xampp\\php\\'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/7.0.9 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/7.0.9'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'C:/xampp/htdocs/sikosan/frontend/web/index.php'
+    'REMOTE_PORT' => '52686'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Findex'
+    'REQUEST_URI' => '/sikosan/frontend/web/index.php?r=site%2Findex'
+    'SCRIPT_NAME' => '/sikosan/frontend/web/index.php'
+    'PHP_SELF' => '/sikosan/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516161192.884
+    'REQUEST_TIME' => 1516161192
+]
+2018-01-17 05:01:11 [::1][-][0h6ubaq6i4taa31kuce5aulhf3][error][Error] Error: Class 'Html' not found in C:\xampp\htdocs\sikosan\frontend\views\site\index.php:15
+Stack trace:
+#0 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\View.php(332): require()
+#1 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\View.php(250): yii\base\View->renderPhpFile('C:\\xampp\\htdocs...', Array)
+#2 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\View.php(152): yii\base\View->renderFile('C:\\xampp\\htdocs...', Array, Object(frontend\controllers\SiteController))
+#3 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\Controller.php(384): yii\base\View->render('index', Array, Object(frontend\controllers\SiteController))
+#4 C:\xampp\htdocs\sikosan\frontend\controllers\SiteController.php(75): yii\base\Controller->render('index')
+#5 [internal function]: frontend\controllers\SiteController->actionIndex()
+#6 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#7 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#8 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('index', Array)
+#9 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('site/index', Array)
+#10 C:\xampp\htdocs\sikosan\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 C:\xampp\htdocs\sikosan\frontend\web\index.php(17): yii\base\Application->run()
+#12 {main}
+2018-01-17 05:01:11 [::1][-][0h6ubaq6i4taa31kuce5aulhf3][info][application] $_GET = [
+    'r' => 'site/index'
+]
+
+$_COOKIE = [
+    '_csrf-frontend' => 'e62fd04aebfa422861bb8001021a965862c9e4b06f9460d8f50219e78661098aa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"3BLSvI4QJLF_NbR4uJokItlmOXrymtF_\";}'
+    'advanced-frontend' => '0h6ubaq6i4taa31kuce5aulhf3'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'fxsyzlt'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'MIBDIRS' => 'C:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'C:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_REFERER' => 'http://localhost/sikosan/frontend/web/index.php?r=site%2Fabout'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7'
+    'HTTP_COOKIE' => '_csrf-frontend=e62fd04aebfa422861bb8001021a965862c9e4b06f9460d8f50219e78661098aa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%223BLSvI4QJLF_NbR4uJokItlmOXrymtF_%22%3B%7D; advanced-frontend=0h6ubaq6i4taa31kuce5aulhf3'
+    'PATH' => 'C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\; C:\\xampp\\php\\'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/7.0.9 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/7.0.9'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'C:/xampp/htdocs/sikosan/frontend/web/index.php'
+    'REMOTE_PORT' => '52765'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Findex'
+    'REQUEST_URI' => '/sikosan/frontend/web/index.php?r=site%2Findex'
+    'SCRIPT_NAME' => '/sikosan/frontend/web/index.php'
+    'PHP_SELF' => '/sikosan/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516161671.243
+    'REQUEST_TIME' => 1516161671
+]
