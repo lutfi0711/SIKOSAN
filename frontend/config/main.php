@@ -45,6 +45,26 @@ return [
             ],
         ],
         */
+        'authManager' => [
+            'class' => /* 'yii\rbac\PhpManager', // or use */ 'yii\rbac\DbManager',
+        ],
     ],
+    
+    'modules' => [
+         'admin' => [
+            'class' => 'mdm\admin\Module',
+            'layout' => 'left-menu',
+        ],
+    ],
+    'as access' => [
+        'class' => 'mdm\admin\components\AccessControl',
+        'allowActions' => [
+            'site/*',
+            'admin/*',
+            'some-controller/some-action',
+            'gii/*'
+        ],
+    ],
+    
     'params' => $params,
 ];
