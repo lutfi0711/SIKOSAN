@@ -29,20 +29,21 @@ AppAsset::register($this);
 <div class="wrap">
     <?php
     NavBar::begin([
-        'brandLabel' => Yii::$app->name,
+        //'brandLabel' => '<img src="logo.png" style="display:inline; vertical-align: top; height:32px;"> SIKOSAN',
+        'brandLabel' => '<i class="glyphicon glyphicon-globe"></i> SIKOSAN',
         'brandUrl' => Yii::$app->homeUrl,
         'options' => [
             'class' => 'navbar-inverse navbar-fixed-top',
         ],
     ]);
     $menuItems = [
-        ['label' => 'Home', 'url' => ['/site/index']],
-        ['label' => 'About', 'url' => ['/site/about']],
-        ['label' => 'Contact', 'url' => ['/site/contact']],
+        ['label' => '<i class="glyphicon glyphicon-home"></i> Home', 'url' => ['/site/index']],
+        ['label' => '<i class="glyphicon glyphicon-cog"></i> About', 'url' => ['/site/about']],
+        ['label' => '<i class="glyphicon glyphicon-envelope"></i> Contact', 'url' => ['/site/contact']],
     ];
     if (Yii::$app->user->isGuest) {
-        $menuItems[] = ['label' => 'Signup', 'url' => ['/site/signup']];
-        $menuItems[] = ['label' => 'Login', 'url' => ['/site/login']];
+        $menuItems[] = ['label' => '<i class="glyphicon glyphicon-plus"></i> Signup', 'url' => ['/site/signup']];
+        $menuItems[] = ['label' => '<i class="glyphicon glyphicon-lock"></i> Login', 'url' => ['/site/login']];
     } else {
         $menuItems[] = '<li>'
             . Html::beginForm(['/site/logout'], 'post')
@@ -54,6 +55,7 @@ AppAsset::register($this);
             . '</li>';
     }
     echo Nav::widget([
+        'encodeLabels' => false,
         'options' => ['class' => 'navbar-nav navbar-right'],
         'items' => $menuItems,
     ]);

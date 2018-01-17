@@ -1151,3 +1151,2347 @@ $_SERVER = [
     'REQUEST_TIME_FLOAT' => 1516161671.243
     'REQUEST_TIME' => 1516161671
 ]
+2018-01-17 04:54:43 [10.240.1.20][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.20
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:80
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:75
+2018-01-17 04:54:43 [10.240.1.20][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.20
+2018-01-17 04:54:43 [10.240.1.20][-][-][info][application] $_COOKIE = [
+    '_csrf-frontend' => 'ecb910b988efa7011cbe0ea398a704050ffcfd462e7586421ce5a339703fcea1a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"4THidAC6R3uKKOGo702mnYPRmyCerOx9\";}'
+    'advanced-frontend' => 'c0dutgu493d8rrssc21p3tlui2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_REFERER' => 'https://sikosan-lutfi0711.c9users.io/frontend/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7'
+    'HTTP_COOKIE' => '_csrf-frontend=ecb910b988efa7011cbe0ea398a704050ffcfd462e7586421ce5a339703fcea1a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%224THidAC6R3uKKOGo702mnYPRmyCerOx9%22%3B%7D; advanced-frontend=c0dutgu493d8rrssc21p3tlui2'
+    'HTTP_X_FORWARDED_PROTO' => 'https'
+    'HTTP_X_FORWARDED_PORT' => '443'
+    'HTTP_X_REGION' => 'ae'
+    'HTTP_X_FORWARDED_FOR' => '114.142.171.25'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 443</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '443'
+    'REMOTE_ADDR' => '10.240.1.20'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '42916'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/frontend/web/'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516164883.376
+    'REQUEST_TIME' => 1516164883
+]
+2018-01-17 04:55:48 [10.240.0.69][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.0.69
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:80
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:75
+2018-01-17 04:55:48 [10.240.0.69][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.0.69
+2018-01-17 04:55:48 [10.240.0.69][-][-][info][application] $_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_USER_AGENT' => 'WhatsApp/0.2.8000 N'
+    'HTTP_ACCEPT_LANGUAGE' => 'en'
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_X_FORWARDED_PROTO' => 'https'
+    'HTTP_X_FORWARDED_PORT' => '443'
+    'HTTP_X_REGION' => 'ae'
+    'HTTP_X_FORWARDED_FOR' => '114.142.171.25'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 443</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '443'
+    'REMOTE_ADDR' => '10.240.0.69'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '40496'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/frontend/web/'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516164948.262
+    'REQUEST_TIME' => 1516164948
+]
+2018-01-17 04:57:20 [10.240.1.198][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.198
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:80
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:75
+2018-01-17 04:57:20 [10.240.1.198][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.198
+2018-01-17 04:57:20 [10.240.1.198][-][-][info][application] $_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SAVE_DATA' => 'on'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4X Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_REFERER' => 'https://sikosan-lutfi0711.c9users.io/frontend/web/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'id-ID,id;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => ''
+    'HTTP_X_FORWARDED_PROTO' => 'https'
+    'HTTP_X_FORWARDED_PORT' => '443'
+    'HTTP_X_REGION' => 'ae'
+    'HTTP_X_FORWARDED_FOR' => '114.142.171.25'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 443</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '443'
+    'REMOTE_ADDR' => '10.240.1.198'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '59808'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/frontend/web/'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516165040.385
+    'REQUEST_TIME' => 1516165040
+]
+2018-01-17 04:58:14 [10.240.1.20][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.20
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:80
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:162
+2018-01-17 04:58:14 [10.240.1.20][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.20
+2018-01-17 04:58:14 [10.240.1.20][-][-][info][application] $_GET = [
+    'r' => 'site/signup'
+]
+
+$_COOKIE = [
+    'advanced-frontend' => 'bsf9j91cvmplfskelouvrdaq30'
+    '_csrf-frontend' => '0d83f604f7fce33fe4df725da54b2b405256f49597916d10f930234d11686e52a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"bpLoccahoiE6zNU7Qivp_QzIWzgkoFRg\";}'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SAVE_DATA' => 'on'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4X Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_REFERER' => 'https://sikosan-lutfi0711.c9users.io/frontend/web/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'id-ID,id;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => 'advanced-frontend=bsf9j91cvmplfskelouvrdaq30; _csrf-frontend=0d83f604f7fce33fe4df725da54b2b405256f49597916d10f930234d11686e52a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22bpLoccahoiE6zNU7Qivp_QzIWzgkoFRg%22%3B%7D; XDEBUG_SESSION=cloud9ide'
+    'HTTP_X_FORWARDED_PROTO' => 'https'
+    'HTTP_X_FORWARDED_PORT' => '443'
+    'HTTP_X_REGION' => 'ae'
+    'HTTP_X_FORWARDED_FOR' => '114.142.171.25'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 443</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '443'
+    'REMOTE_ADDR' => '10.240.1.20'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '46394'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Fsignup'
+    'REQUEST_URI' => '/frontend/web/index.php?r=site%2Fsignup'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516165094.138
+    'REQUEST_TIME' => 1516165094
+]
+2018-01-17 04:58:18 [10.240.0.69][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.0.69
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:80
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:75
+2018-01-17 04:58:18 [10.240.0.69][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.0.69
+2018-01-17 04:58:18 [10.240.0.69][-][-][info][application] $_COOKIE = [
+    'advanced-frontend' => 'bsf9j91cvmplfskelouvrdaq30'
+    '_csrf-frontend' => '0d83f604f7fce33fe4df725da54b2b405256f49597916d10f930234d11686e52a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"bpLoccahoiE6zNU7Qivp_QzIWzgkoFRg\";}'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io'
+    'HTTP_SAVE_DATA' => 'on'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4X Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_REFERER' => 'https://sikosan-lutfi0711.c9users.io/frontend/web/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'id-ID,id;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => 'advanced-frontend=bsf9j91cvmplfskelouvrdaq30; _csrf-frontend=0d83f604f7fce33fe4df725da54b2b405256f49597916d10f930234d11686e52a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22bpLoccahoiE6zNU7Qivp_QzIWzgkoFRg%22%3B%7D; XDEBUG_SESSION=cloud9ide'
+    'HTTP_X_FORWARDED_PROTO' => 'https'
+    'HTTP_X_FORWARDED_PORT' => '443'
+    'HTTP_X_REGION' => 'ae'
+    'HTTP_X_FORWARDED_FOR' => '114.142.171.25'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 443</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '443'
+    'REMOTE_ADDR' => '10.240.0.69'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '43006'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/frontend/web/'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516165098.65
+    'REQUEST_TIME' => 1516165098
+]
+2018-01-17 04:58:20 [10.240.1.8][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.8
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:80
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:75
+2018-01-17 04:58:20 [10.240.1.8][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.8
+2018-01-17 04:58:20 [10.240.1.8][-][-][info][application] $_GET = [
+    'r' => 'site/index'
+]
+
+$_COOKIE = [
+    'advanced-frontend' => 'bsf9j91cvmplfskelouvrdaq30'
+    '_csrf-frontend' => '0d83f604f7fce33fe4df725da54b2b405256f49597916d10f930234d11686e52a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"bpLoccahoiE6zNU7Qivp_QzIWzgkoFRg\";}'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SAVE_DATA' => 'on'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4X Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_REFERER' => 'https://sikosan-lutfi0711.c9users.io/frontend/web/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'id-ID,id;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => 'advanced-frontend=bsf9j91cvmplfskelouvrdaq30; _csrf-frontend=0d83f604f7fce33fe4df725da54b2b405256f49597916d10f930234d11686e52a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22bpLoccahoiE6zNU7Qivp_QzIWzgkoFRg%22%3B%7D; XDEBUG_SESSION=cloud9ide'
+    'HTTP_X_FORWARDED_PROTO' => 'https'
+    'HTTP_X_FORWARDED_PORT' => '443'
+    'HTTP_X_REGION' => 'ae'
+    'HTTP_X_FORWARDED_FOR' => '114.142.171.25'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 443</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '443'
+    'REMOTE_ADDR' => '10.240.1.8'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '44092'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Findex'
+    'REQUEST_URI' => '/frontend/web/index.php?r=site%2Findex'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516165100.201
+    'REQUEST_TIME' => 1516165100
+]
+2018-01-17 04:58:21 [10.240.0.69][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.0.69
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:80
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:75
+2018-01-17 04:58:21 [10.240.0.69][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.0.69
+2018-01-17 04:58:21 [10.240.0.69][-][-][info][application] $_GET = [
+    'r' => 'site/index'
+]
+
+$_COOKIE = [
+    'advanced-frontend' => 'bsf9j91cvmplfskelouvrdaq30'
+    '_csrf-frontend' => '0d83f604f7fce33fe4df725da54b2b405256f49597916d10f930234d11686e52a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"bpLoccahoiE6zNU7Qivp_QzIWzgkoFRg\";}'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SAVE_DATA' => 'on'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4X Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_REFERER' => 'https://sikosan-lutfi0711.c9users.io/frontend/web/index.php?r=site%2Findex'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'id-ID,id;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => 'advanced-frontend=bsf9j91cvmplfskelouvrdaq30; _csrf-frontend=0d83f604f7fce33fe4df725da54b2b405256f49597916d10f930234d11686e52a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22bpLoccahoiE6zNU7Qivp_QzIWzgkoFRg%22%3B%7D; XDEBUG_SESSION=cloud9ide'
+    'HTTP_X_FORWARDED_PROTO' => 'https'
+    'HTTP_X_FORWARDED_PORT' => '443'
+    'HTTP_X_REGION' => 'ae'
+    'HTTP_X_FORWARDED_FOR' => '114.142.171.25'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 443</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '443'
+    'REMOTE_ADDR' => '10.240.0.69'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '43082'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Findex'
+    'REQUEST_URI' => '/frontend/web/index.php?r=site%2Findex'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516165101.904
+    'REQUEST_TIME' => 1516165101
+]
+2018-01-17 04:58:26 [10.240.0.69][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.0.69
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:80
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:75
+2018-01-17 04:58:26 [10.240.0.69][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.0.69
+2018-01-17 04:58:26 [10.240.0.69][-][-][info][application] $_COOKIE = [
+    'advanced-frontend' => 'bsf9j91cvmplfskelouvrdaq30'
+    '_csrf-frontend' => '0d83f604f7fce33fe4df725da54b2b405256f49597916d10f930234d11686e52a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"bpLoccahoiE6zNU7Qivp_QzIWzgkoFRg\";}'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io'
+    'HTTP_SAVE_DATA' => 'on'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4X Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_REFERER' => 'https://sikosan-lutfi0711.c9users.io/frontend/web/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'id-ID,id;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => 'advanced-frontend=bsf9j91cvmplfskelouvrdaq30; _csrf-frontend=0d83f604f7fce33fe4df725da54b2b405256f49597916d10f930234d11686e52a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22bpLoccahoiE6zNU7Qivp_QzIWzgkoFRg%22%3B%7D; XDEBUG_SESSION=cloud9ide'
+    'HTTP_X_FORWARDED_PROTO' => 'https'
+    'HTTP_X_FORWARDED_PORT' => '443'
+    'HTTP_X_REGION' => 'ae'
+    'HTTP_X_FORWARDED_FOR' => '114.142.171.25'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 443</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '443'
+    'REMOTE_ADDR' => '10.240.0.69'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '43146'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/frontend/web/'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516165106.309
+    'REQUEST_TIME' => 1516165106
+]
+2018-01-17 05:04:22 [10.240.0.69][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.0.69
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:80
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:141
+2018-01-17 05:04:22 [10.240.0.69][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.0.69
+2018-01-17 05:04:22 [10.240.0.69][-][-][info][application] $_GET = [
+    'r' => 'site/about'
+]
+
+$_COOKIE = [
+    '_csrf-frontend' => 'ecb910b988efa7011cbe0ea398a704050ffcfd462e7586421ce5a339703fcea1a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"4THidAC6R3uKKOGo702mnYPRmyCerOx9\";}'
+    'advanced-frontend' => 'c0dutgu493d8rrssc21p3tlui2'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_REFERER' => 'https://sikosan-lutfi0711.c9users.io/frontend/web/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7'
+    'HTTP_COOKIE' => '_csrf-frontend=ecb910b988efa7011cbe0ea398a704050ffcfd462e7586421ce5a339703fcea1a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%224THidAC6R3uKKOGo702mnYPRmyCerOx9%22%3B%7D; advanced-frontend=c0dutgu493d8rrssc21p3tlui2; XDEBUG_SESSION=cloud9ide'
+    'HTTP_X_FORWARDED_PROTO' => 'https'
+    'HTTP_X_FORWARDED_PORT' => '443'
+    'HTTP_X_REGION' => 'ae'
+    'HTTP_X_FORWARDED_FOR' => '114.142.171.25'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 443</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '443'
+    'REMOTE_ADDR' => '10.240.0.69'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '49384'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Fabout'
+    'REQUEST_URI' => '/frontend/web/index.php?r=site%2Fabout'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516165462.849
+    'REQUEST_TIME' => 1516165462
+]
+2018-01-17 05:04:35 [10.240.0.69][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.0.69
+2018-01-17 05:04:35 [10.240.0.69][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.0.69
+2018-01-17 05:04:35 [10.240.0.69][-][-][info][application] $_GET = [
+    'r' => 'gii'
+]
+
+$_COOKIE = [
+    '_csrf-frontend' => 'ecb910b988efa7011cbe0ea398a704050ffcfd462e7586421ce5a339703fcea1a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"4THidAC6R3uKKOGo702mnYPRmyCerOx9\";}'
+    'advanced-frontend' => 'c0dutgu493d8rrssc21p3tlui2'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7'
+    'HTTP_COOKIE' => '_csrf-frontend=ecb910b988efa7011cbe0ea398a704050ffcfd462e7586421ce5a339703fcea1a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%224THidAC6R3uKKOGo702mnYPRmyCerOx9%22%3B%7D; advanced-frontend=c0dutgu493d8rrssc21p3tlui2; XDEBUG_SESSION=cloud9ide'
+    'HTTP_X_FORWARDED_PROTO' => 'https'
+    'HTTP_X_FORWARDED_PORT' => '443'
+    'HTTP_X_REGION' => 'ae'
+    'HTTP_X_FORWARDED_FOR' => '114.142.171.25'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 443</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '443'
+    'REMOTE_ADDR' => '10.240.0.69'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '49582'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=gii'
+    'REQUEST_URI' => '/frontend/web/index.php?r=gii'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516165475.438
+    'REQUEST_TIME' => 1516165475
+]
+2018-01-17 05:04:40 [10.240.1.20][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.20
+2018-01-17 05:04:40 [10.240.1.20][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.20
+2018-01-17 05:04:40 [10.240.1.20][-][-][info][application] $_GET = [
+    'r' => 'gii/default/view'
+    'id' => 'model'
+]
+
+$_COOKIE = [
+    '_csrf-frontend' => 'ecb910b988efa7011cbe0ea398a704050ffcfd462e7586421ce5a339703fcea1a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"4THidAC6R3uKKOGo702mnYPRmyCerOx9\";}'
+    'advanced-frontend' => 'c0dutgu493d8rrssc21p3tlui2'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_REFERER' => 'https://sikosan-lutfi0711.c9users.io/frontend/web/index.php?r=gii'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7'
+    'HTTP_COOKIE' => '_csrf-frontend=ecb910b988efa7011cbe0ea398a704050ffcfd462e7586421ce5a339703fcea1a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%224THidAC6R3uKKOGo702mnYPRmyCerOx9%22%3B%7D; advanced-frontend=c0dutgu493d8rrssc21p3tlui2; XDEBUG_SESSION=cloud9ide'
+    'HTTP_X_FORWARDED_PROTO' => 'https'
+    'HTTP_X_FORWARDED_PORT' => '443'
+    'HTTP_X_REGION' => 'ae'
+    'HTTP_X_FORWARDED_FOR' => '114.142.171.25'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 443</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '443'
+    'REMOTE_ADDR' => '10.240.1.20'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '52972'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=gii%2Fdefault%2Fview&id=model'
+    'REQUEST_URI' => '/frontend/web/index.php?r=gii%2Fdefault%2Fview&id=model'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516165480.11
+    'REQUEST_TIME' => 1516165480
+]
+2018-01-17 05:05:09 [10.240.0.69][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.0.69
+2018-01-17 05:05:09 [10.240.0.69][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.0.69
+2018-01-17 05:05:09 [10.240.0.69][-][-][info][application] $_GET = [
+    'r' => 'gii/default/view'
+    'id' => 'crud'
+]
+
+$_COOKIE = [
+    '_csrf-frontend' => 'ecb910b988efa7011cbe0ea398a704050ffcfd462e7586421ce5a339703fcea1a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"4THidAC6R3uKKOGo702mnYPRmyCerOx9\";}'
+    'advanced-frontend' => 'c0dutgu493d8rrssc21p3tlui2'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_REFERER' => 'https://sikosan-lutfi0711.c9users.io/frontend/web/index.php?r=gii%2Fdefault%2Fview&id=model'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7'
+    'HTTP_COOKIE' => '_csrf-frontend=ecb910b988efa7011cbe0ea398a704050ffcfd462e7586421ce5a339703fcea1a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%224THidAC6R3uKKOGo702mnYPRmyCerOx9%22%3B%7D; advanced-frontend=c0dutgu493d8rrssc21p3tlui2; XDEBUG_SESSION=cloud9ide'
+    'HTTP_X_FORWARDED_PROTO' => 'https'
+    'HTTP_X_FORWARDED_PORT' => '443'
+    'HTTP_X_REGION' => 'ae'
+    'HTTP_X_FORWARDED_FOR' => '114.142.171.25'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 443</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '443'
+    'REMOTE_ADDR' => '10.240.0.69'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '50134'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=gii%2Fdefault%2Fview&id=crud'
+    'REQUEST_URI' => '/frontend/web/index.php?r=gii%2Fdefault%2Fview&id=crud'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516165509.075
+    'REQUEST_TIME' => 1516165509
+]
+2018-01-17 05:05:11 [10.240.0.236][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.0.236
+2018-01-17 05:05:11 [10.240.0.236][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.0.236
+2018-01-17 05:05:11 [10.240.0.236][-][-][info][application] $_GET = [
+    'r' => 'gii/default/view'
+    'id' => 'extension'
+]
+
+$_COOKIE = [
+    '_csrf-frontend' => 'ecb910b988efa7011cbe0ea398a704050ffcfd462e7586421ce5a339703fcea1a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"4THidAC6R3uKKOGo702mnYPRmyCerOx9\";}'
+    'advanced-frontend' => 'c0dutgu493d8rrssc21p3tlui2'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_REFERER' => 'https://sikosan-lutfi0711.c9users.io/frontend/web/index.php?r=gii%2Fdefault%2Fview&id=crud'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7'
+    'HTTP_COOKIE' => '_csrf-frontend=ecb910b988efa7011cbe0ea398a704050ffcfd462e7586421ce5a339703fcea1a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%224THidAC6R3uKKOGo702mnYPRmyCerOx9%22%3B%7D; advanced-frontend=c0dutgu493d8rrssc21p3tlui2; XDEBUG_SESSION=cloud9ide'
+    'HTTP_X_FORWARDED_PROTO' => 'https'
+    'HTTP_X_FORWARDED_PORT' => '443'
+    'HTTP_X_REGION' => 'ae'
+    'HTTP_X_FORWARDED_FOR' => '114.142.171.25'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 443</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '443'
+    'REMOTE_ADDR' => '10.240.0.236'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '51486'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=gii%2Fdefault%2Fview&id=extension'
+    'REQUEST_URI' => '/frontend/web/index.php?r=gii%2Fdefault%2Fview&id=extension'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516165511.159
+    'REQUEST_TIME' => 1516165511
+]
+2018-01-17 05:05:12 [10.240.1.8][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.8
+2018-01-17 05:05:12 [10.240.1.8][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.8
+2018-01-17 05:05:12 [10.240.1.8][-][-][info][application] $_GET = [
+    'r' => 'gii/default/view'
+    'id' => 'module'
+]
+
+$_COOKIE = [
+    '_csrf-frontend' => 'ecb910b988efa7011cbe0ea398a704050ffcfd462e7586421ce5a339703fcea1a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"4THidAC6R3uKKOGo702mnYPRmyCerOx9\";}'
+    'advanced-frontend' => 'c0dutgu493d8rrssc21p3tlui2'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_REFERER' => 'https://sikosan-lutfi0711.c9users.io/frontend/web/index.php?r=gii%2Fdefault%2Fview&id=extension'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7'
+    'HTTP_COOKIE' => '_csrf-frontend=ecb910b988efa7011cbe0ea398a704050ffcfd462e7586421ce5a339703fcea1a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%224THidAC6R3uKKOGo702mnYPRmyCerOx9%22%3B%7D; advanced-frontend=c0dutgu493d8rrssc21p3tlui2; XDEBUG_SESSION=cloud9ide'
+    'HTTP_X_FORWARDED_PROTO' => 'https'
+    'HTTP_X_FORWARDED_PORT' => '443'
+    'HTTP_X_REGION' => 'ae'
+    'HTTP_X_FORWARDED_FOR' => '114.142.171.25'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 443</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '443'
+    'REMOTE_ADDR' => '10.240.1.8'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '50972'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=gii%2Fdefault%2Fview&id=module'
+    'REQUEST_URI' => '/frontend/web/index.php?r=gii%2Fdefault%2Fview&id=module'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516165512.458
+    'REQUEST_TIME' => 1516165512
+]
+2018-01-17 05:06:10 [10.240.1.198][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.198
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:80
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:75
+2018-01-17 05:06:10 [10.240.1.198][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.198
+2018-01-17 05:06:10 [10.240.1.198][-][-][info][application] $_COOKIE = [
+    'advanced-frontend' => 'bsf9j91cvmplfskelouvrdaq30'
+    '_csrf-frontend' => '0d83f604f7fce33fe4df725da54b2b405256f49597916d10f930234d11686e52a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"bpLoccahoiE6zNU7Qivp_QzIWzgkoFRg\";}'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io'
+    'HTTP_SAVE_DATA' => 'on'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4X Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'id-ID,id;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => 'advanced-frontend=bsf9j91cvmplfskelouvrdaq30; _csrf-frontend=0d83f604f7fce33fe4df725da54b2b405256f49597916d10f930234d11686e52a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22bpLoccahoiE6zNU7Qivp_QzIWzgkoFRg%22%3B%7D; XDEBUG_SESSION=cloud9ide'
+    'HTTP_X_FORWARDED_PROTO' => 'https'
+    'HTTP_X_FORWARDED_PORT' => '443'
+    'HTTP_X_REGION' => 'ae'
+    'HTTP_X_FORWARDED_FOR' => '114.142.171.25'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 443</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '443'
+    'REMOTE_ADDR' => '10.240.1.198'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '42772'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/frontend/web/'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516165570.59
+    'REQUEST_TIME' => 1516165570
+]
+2018-01-17 05:06:21 [10.240.1.206][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.206
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:80
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:162
+2018-01-17 05:06:21 [10.240.1.206][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.206
+2018-01-17 05:06:21 [10.240.1.206][-][-][info][application] $_GET = [
+    'r' => 'site/signup'
+]
+
+$_COOKIE = [
+    'advanced-frontend' => 'bsf9j91cvmplfskelouvrdaq30'
+    '_csrf-frontend' => '0d83f604f7fce33fe4df725da54b2b405256f49597916d10f930234d11686e52a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"bpLoccahoiE6zNU7Qivp_QzIWzgkoFRg\";}'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SAVE_DATA' => 'on'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4X Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_REFERER' => 'https://sikosan-lutfi0711.c9users.io/frontend/web/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'id-ID,id;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => 'advanced-frontend=bsf9j91cvmplfskelouvrdaq30; _csrf-frontend=0d83f604f7fce33fe4df725da54b2b405256f49597916d10f930234d11686e52a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22bpLoccahoiE6zNU7Qivp_QzIWzgkoFRg%22%3B%7D; XDEBUG_SESSION=cloud9ide'
+    'HTTP_X_FORWARDED_PROTO' => 'https'
+    'HTTP_X_FORWARDED_PORT' => '443'
+    'HTTP_X_REGION' => 'ae'
+    'HTTP_X_FORWARDED_FOR' => '114.142.171.25'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 443</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '443'
+    'REMOTE_ADDR' => '10.240.1.206'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '49568'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Fsignup'
+    'REQUEST_URI' => '/frontend/web/index.php?r=site%2Fsignup'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516165581.065
+    'REQUEST_TIME' => 1516165581
+]
+2018-01-17 05:06:23 [10.240.1.15][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.15
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:80
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:162
+2018-01-17 05:06:23 [10.240.1.15][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.15
+2018-01-17 05:06:23 [10.240.1.15][-][-][info][application] $_GET = [
+    'r' => 'site/signup'
+]
+
+$_COOKIE = [
+    'advanced-frontend' => 'bsf9j91cvmplfskelouvrdaq30'
+    '_csrf-frontend' => '0d83f604f7fce33fe4df725da54b2b405256f49597916d10f930234d11686e52a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"bpLoccahoiE6zNU7Qivp_QzIWzgkoFRg\";}'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_SAVE_DATA' => 'on'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4X Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_REFERER' => 'https://sikosan-lutfi0711.c9users.io/frontend/web/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'id-ID,id;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => 'advanced-frontend=bsf9j91cvmplfskelouvrdaq30; _csrf-frontend=0d83f604f7fce33fe4df725da54b2b405256f49597916d10f930234d11686e52a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22bpLoccahoiE6zNU7Qivp_QzIWzgkoFRg%22%3B%7D; XDEBUG_SESSION=cloud9ide'
+    'HTTP_X_FORWARDED_PROTO' => 'https'
+    'HTTP_X_FORWARDED_PORT' => '443'
+    'HTTP_X_REGION' => 'ae'
+    'HTTP_X_FORWARDED_FOR' => '114.142.171.25'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 443</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '443'
+    'REMOTE_ADDR' => '10.240.1.15'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '47074'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Fsignup'
+    'REQUEST_URI' => '/frontend/web/index.php?r=site%2Fsignup'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516165583.422
+    'REQUEST_TIME' => 1516165583
+]
+2018-01-17 05:06:27 [10.240.1.198][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.198
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:80
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:75
+2018-01-17 05:06:27 [10.240.1.198][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.198
+2018-01-17 05:06:27 [10.240.1.198][-][-][info][application] $_COOKIE = [
+    'advanced-frontend' => 'bsf9j91cvmplfskelouvrdaq30'
+    '_csrf-frontend' => '0d83f604f7fce33fe4df725da54b2b405256f49597916d10f930234d11686e52a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"bpLoccahoiE6zNU7Qivp_QzIWzgkoFRg\";}'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io'
+    'HTTP_SAVE_DATA' => 'on'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4X Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'id-ID,id;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => 'advanced-frontend=bsf9j91cvmplfskelouvrdaq30; _csrf-frontend=0d83f604f7fce33fe4df725da54b2b405256f49597916d10f930234d11686e52a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22bpLoccahoiE6zNU7Qivp_QzIWzgkoFRg%22%3B%7D; XDEBUG_SESSION=cloud9ide'
+    'HTTP_X_FORWARDED_PROTO' => 'https'
+    'HTTP_X_FORWARDED_PORT' => '443'
+    'HTTP_X_REGION' => 'ae'
+    'HTTP_X_FORWARDED_FOR' => '114.142.171.25'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 443</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '443'
+    'REMOTE_ADDR' => '10.240.1.198'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '43076'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/frontend/web/'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516165587.383
+    'REQUEST_TIME' => 1516165587
+]
+2018-01-17 05:17:55 [10.240.0.69][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.0.69
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:80
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:75
+2018-01-17 05:17:55 [10.240.0.69][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.0.69
+2018-01-17 05:17:55 [10.240.0.69][-][-][info][application] $_COOKIE = [
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io'
+    'HTTP_SAVE_DATA' => 'on'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4X Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'id-ID,id;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => 'XDEBUG_SESSION=cloud9ide'
+    'HTTP_X_FORWARDED_PROTO' => 'https'
+    'HTTP_X_FORWARDED_PORT' => '443'
+    'HTTP_X_REGION' => 'ae'
+    'HTTP_X_FORWARDED_FOR' => '114.142.171.25'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 443</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '443'
+    'REMOTE_ADDR' => '10.240.0.69'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '36716'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/frontend/web/'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516166275.894
+    'REQUEST_TIME' => 1516166275
+]
+2018-01-17 06:37:52 [10.240.1.8][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.8
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:80
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:75
+2018-01-17 06:37:52 [10.240.1.8][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.8
+2018-01-17 06:37:52 [10.240.1.8][-][-][info][application] $_COOKIE = [
+    'advanced-frontend' => 'oesje1rmf759op6cunf4ltbsl0'
+    '_csrf-frontend' => '710500377c51d63477403adf5cefbddcc6f7fdce1256d0fbf945165c07bd04caa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"dBxZkfuEiuM3FfeY7Ezr0L-ZnmVpUmW-\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io:80'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_COOKIE' => 'advanced-frontend=oesje1rmf759op6cunf4ltbsl0; _csrf-frontend=710500377c51d63477403adf5cefbddcc6f7fdce1256d0fbf945165c07bd04caa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22dBxZkfuEiuM3FfeY7Ezr0L-ZnmVpUmW-%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_X_FORWARDED_PROTO' => 'http'
+    'HTTP_X_FORWARDED_PORT' => '80'
+    'HTTP_X_FORWARDED_FOR' => '180.246.81.116'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '10.240.1.8'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '48106'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/frontend/web/index.php'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516171072.531
+    'REQUEST_TIME' => 1516171072
+]
+2018-01-17 06:39:22 [10.240.1.20][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.20
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:80
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:141
+2018-01-17 06:39:22 [10.240.1.20][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.20
+2018-01-17 06:39:22 [10.240.1.20][-][-][info][application] $_GET = [
+    'r' => 'site/about'
+]
+
+$_COOKIE = [
+    'advanced-frontend' => 'oesje1rmf759op6cunf4ltbsl0'
+    '_csrf-frontend' => '820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J\";}'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io:80'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://sikosan-lutfi0711.c9users.io/frontend/web/index.php'
+    'HTTP_COOKIE' => 'advanced-frontend=oesje1rmf759op6cunf4ltbsl0; _csrf-frontend=820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J%22%3B%7D; XDEBUG_SESSION=cloud9ide'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_X_FORWARDED_PROTO' => 'http'
+    'HTTP_X_FORWARDED_PORT' => '80'
+    'HTTP_X_FORWARDED_FOR' => '180.246.81.116'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '10.240.1.20'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '42066'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Fabout'
+    'REQUEST_URI' => '/frontend/web/index.php?r=site%2Fabout'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516171162.033
+    'REQUEST_TIME' => 1516171162
+]
+2018-01-17 07:27:33 [10.240.0.69][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.0.69
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:80
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:75
+2018-01-17 07:27:33 [10.240.0.69][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.0.69
+2018-01-17 07:27:33 [10.240.0.69][-][-][info][application] $_GET = [
+    'r' => 'site/index'
+]
+
+$_COOKIE = [
+    'advanced-frontend' => 'oesje1rmf759op6cunf4ltbsl0'
+    '_csrf-frontend' => '820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J\";}'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io:80'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://sikosan-lutfi0711.c9users.io/frontend/web/index.php?r=site%2Fabout'
+    'HTTP_COOKIE' => 'advanced-frontend=oesje1rmf759op6cunf4ltbsl0; _csrf-frontend=820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J%22%3B%7D; XDEBUG_SESSION=cloud9ide'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_X_FORWARDED_PROTO' => 'http'
+    'HTTP_X_FORWARDED_PORT' => '80'
+    'HTTP_X_FORWARDED_FOR' => '36.78.130.219'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '10.240.0.69'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '47924'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Findex'
+    'REQUEST_URI' => '/frontend/web/index.php?r=site%2Findex'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516174053.518
+    'REQUEST_TIME' => 1516174053
+]
+2018-01-17 07:28:02 [10.240.1.15][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.15
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:80
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:141
+2018-01-17 07:28:02 [10.240.1.15][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.15
+2018-01-17 07:28:02 [10.240.1.15][-][-][info][application] $_GET = [
+    'r' => 'site/about'
+]
+
+$_COOKIE = [
+    'advanced-frontend' => 'oesje1rmf759op6cunf4ltbsl0'
+    '_csrf-frontend' => '820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J\";}'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io:80'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://sikosan-lutfi0711.c9users.io/frontend/web/index.php?r=site%2Findex'
+    'HTTP_COOKIE' => 'advanced-frontend=oesje1rmf759op6cunf4ltbsl0; _csrf-frontend=820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J%22%3B%7D; XDEBUG_SESSION=cloud9ide'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_X_FORWARDED_PROTO' => 'http'
+    'HTTP_X_FORWARDED_PORT' => '80'
+    'HTTP_X_FORWARDED_FOR' => '180.246.100.20'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '10.240.1.15'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '49286'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Fabout'
+    'REQUEST_URI' => '/frontend/web/index.php?r=site%2Fabout'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516174082.35
+    'REQUEST_TIME' => 1516174082
+]
+2018-01-17 07:28:37 [10.240.1.15][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.15
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:80
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:75
+2018-01-17 07:28:37 [10.240.1.15][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.15
+2018-01-17 07:28:37 [10.240.1.15][-][-][info][application] $_GET = [
+    'r' => 'site/index'
+]
+
+$_COOKIE = [
+    'advanced-frontend' => 'oesje1rmf759op6cunf4ltbsl0'
+    '_csrf-frontend' => '820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J\";}'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io:80'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://sikosan-lutfi0711.c9users.io/frontend/web/index.php?r=site%2Fabout'
+    'HTTP_COOKIE' => 'advanced-frontend=oesje1rmf759op6cunf4ltbsl0; _csrf-frontend=820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J%22%3B%7D; XDEBUG_SESSION=cloud9ide'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_X_FORWARDED_PROTO' => 'http'
+    'HTTP_X_FORWARDED_PORT' => '80'
+    'HTTP_X_FORWARDED_FOR' => '180.246.100.20'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '10.240.1.15'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '50022'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Findex'
+    'REQUEST_URI' => '/frontend/web/index.php?r=site%2Findex'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516174117.419
+    'REQUEST_TIME' => 1516174117
+]
+2018-01-17 07:30:04 [10.240.1.206][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.206
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:80
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:141
+2018-01-17 07:30:04 [10.240.1.206][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.206
+2018-01-17 07:30:03 [10.240.1.206][-][-][info][application] $_GET = [
+    'r' => 'site/about'
+]
+
+$_COOKIE = [
+    'advanced-frontend' => 'oesje1rmf759op6cunf4ltbsl0'
+    '_csrf-frontend' => '820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J\";}'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io:80'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://sikosan-lutfi0711.c9users.io/frontend/web/index.php?r=site%2Findex'
+    'HTTP_COOKIE' => 'advanced-frontend=oesje1rmf759op6cunf4ltbsl0; _csrf-frontend=820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J%22%3B%7D; XDEBUG_SESSION=cloud9ide'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_X_FORWARDED_PROTO' => 'http'
+    'HTTP_X_FORWARDED_PORT' => '80'
+    'HTTP_X_FORWARDED_FOR' => '36.78.130.219'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '10.240.1.206'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '44894'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Fabout'
+    'REQUEST_URI' => '/frontend/web/index.php?r=site%2Fabout'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516174203.98
+    'REQUEST_TIME' => 1516174203
+]
+2018-01-17 07:30:05 [10.240.0.69][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.0.69
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:80
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:75
+2018-01-17 07:30:05 [10.240.0.69][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.0.69
+2018-01-17 07:30:05 [10.240.0.69][-][-][info][application] $_GET = [
+    'r' => 'site/index'
+]
+
+$_COOKIE = [
+    'advanced-frontend' => 'oesje1rmf759op6cunf4ltbsl0'
+    '_csrf-frontend' => '820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J\";}'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io:80'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://sikosan-lutfi0711.c9users.io/frontend/web/index.php?r=site%2Fabout'
+    'HTTP_COOKIE' => 'advanced-frontend=oesje1rmf759op6cunf4ltbsl0; _csrf-frontend=820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J%22%3B%7D; XDEBUG_SESSION=cloud9ide'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_X_FORWARDED_PROTO' => 'http'
+    'HTTP_X_FORWARDED_PORT' => '80'
+    'HTTP_X_FORWARDED_FOR' => '36.78.130.219'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '10.240.0.69'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '51124'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Findex'
+    'REQUEST_URI' => '/frontend/web/index.php?r=site%2Findex'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516174205.769
+    'REQUEST_TIME' => 1516174205
+]
+2018-01-17 07:35:48 [10.240.1.20][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.20
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:80
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:75
+2018-01-17 07:35:48 [10.240.1.20][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.20
+2018-01-17 07:35:47 [10.240.1.20][-][-][info][application] $_GET = [
+    'r' => 'site/index'
+]
+
+$_COOKIE = [
+    'advanced-frontend' => 'oesje1rmf759op6cunf4ltbsl0'
+    '_csrf-frontend' => '820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J\";}'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io:80'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_COOKIE' => 'advanced-frontend=oesje1rmf759op6cunf4ltbsl0; _csrf-frontend=820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J%22%3B%7D; XDEBUG_SESSION=cloud9ide'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_X_FORWARDED_PROTO' => 'http'
+    'HTTP_X_FORWARDED_PORT' => '80'
+    'HTTP_X_FORWARDED_FOR' => '180.246.102.146'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '10.240.1.20'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '55882'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Findex'
+    'REQUEST_URI' => '/frontend/web/index.php?r=site%2Findex'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516174547.994
+    'REQUEST_TIME' => 1516174547
+]
+2018-01-17 08:06:39 [10.240.1.8][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.8
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:80
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:75
+2018-01-17 08:06:39 [10.240.1.8][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.8
+2018-01-17 08:06:39 [10.240.1.8][-][-][info][application] $_GET = [
+    'r' => 'site/index'
+]
+
+$_COOKIE = [
+    'advanced-frontend' => 'oesje1rmf759op6cunf4ltbsl0'
+    '_csrf-frontend' => '820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io:80'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://sikosan-lutfi0711.c9users.io/frontend/web/index.php?r=site%2Findex'
+    'HTTP_COOKIE' => 'advanced-frontend=oesje1rmf759op6cunf4ltbsl0; _csrf-frontend=820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_X_FORWARDED_PROTO' => 'http'
+    'HTTP_X_FORWARDED_PORT' => '80'
+    'HTTP_X_FORWARDED_FOR' => '180.246.81.116'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '10.240.1.8'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '50558'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Findex'
+    'REQUEST_URI' => '/frontend/web/index.php?r=site%2Findex'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516176399.269
+    'REQUEST_TIME' => 1516176399
+]
+2018-01-17 08:11:43 [10.240.1.198][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.198
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:80
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:75
+2018-01-17 08:11:43 [10.240.1.198][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.198
+2018-01-17 08:11:43 [10.240.1.198][-][-][info][application] $_GET = [
+    'r' => 'site/index'
+]
+
+$_COOKIE = [
+    'advanced-frontend' => 'oesje1rmf759op6cunf4ltbsl0'
+    '_csrf-frontend' => '820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J\";}'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io:80'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_COOKIE' => 'advanced-frontend=oesje1rmf759op6cunf4ltbsl0; _csrf-frontend=820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J%22%3B%7D; XDEBUG_SESSION=cloud9ide'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_X_FORWARDED_PROTO' => 'http'
+    'HTTP_X_FORWARDED_PORT' => '80'
+    'HTTP_X_FORWARDED_FOR' => '180.246.40.200'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '10.240.1.198'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '34656'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Findex'
+    'REQUEST_URI' => '/frontend/web/index.php?r=site%2Findex'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516176703.416
+    'REQUEST_TIME' => 1516176703
+]
+2018-01-17 08:12:26 [10.240.1.198][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.198
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:81
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:75
+2018-01-17 08:12:26 [10.240.1.198][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.198
+2018-01-17 08:12:26 [10.240.1.198][-][-][info][application] $_GET = [
+    'r' => 'site/index'
+]
+
+$_COOKIE = [
+    'advanced-frontend' => 'oesje1rmf759op6cunf4ltbsl0'
+    '_csrf-frontend' => '820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J\";}'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io:80'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_COOKIE' => 'advanced-frontend=oesje1rmf759op6cunf4ltbsl0; _csrf-frontend=820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J%22%3B%7D; XDEBUG_SESSION=cloud9ide'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_X_FORWARDED_PROTO' => 'http'
+    'HTTP_X_FORWARDED_PORT' => '80'
+    'HTTP_X_FORWARDED_FOR' => '180.246.40.200'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '10.240.1.198'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '35808'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Findex'
+    'REQUEST_URI' => '/frontend/web/index.php?r=site%2Findex'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516176746.901
+    'REQUEST_TIME' => 1516176746
+]
+2018-01-17 08:12:35 [10.240.1.20][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.20
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:81
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:75
+2018-01-17 08:12:35 [10.240.1.20][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.20
+2018-01-17 08:12:35 [10.240.1.20][-][-][info][application] $_COOKIE = [
+    'advanced-frontend' => 'oesje1rmf759op6cunf4ltbsl0'
+    '_csrf-frontend' => '820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J\";}'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io:80'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://sikosan-lutfi0711.c9users.io/frontend/web/index.php?r=site%2Findex'
+    'HTTP_COOKIE' => 'advanced-frontend=oesje1rmf759op6cunf4ltbsl0; _csrf-frontend=820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J%22%3B%7D; XDEBUG_SESSION=cloud9ide'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_X_FORWARDED_PROTO' => 'http'
+    'HTTP_X_FORWARDED_PORT' => '80'
+    'HTTP_X_FORWARDED_FOR' => '180.246.40.200'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '10.240.1.20'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '46786'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/frontend/web/index.php'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516176755.25
+    'REQUEST_TIME' => 1516176755
+]
+2018-01-17 08:13:43 [10.240.0.236][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.0.236
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:82
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:75
+2018-01-17 08:13:43 [10.240.0.236][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.0.236
+2018-01-17 08:13:43 [10.240.0.236][-][-][info][application] $_COOKIE = [
+    'advanced-frontend' => 'oesje1rmf759op6cunf4ltbsl0'
+    '_csrf-frontend' => '820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J\";}'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io:80'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_COOKIE' => 'advanced-frontend=oesje1rmf759op6cunf4ltbsl0; _csrf-frontend=820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J%22%3B%7D; XDEBUG_SESSION=cloud9ide'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_X_FORWARDED_PROTO' => 'http'
+    'HTTP_X_FORWARDED_PORT' => '80'
+    'HTTP_X_FORWARDED_FOR' => '180.246.81.116'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '10.240.0.236'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '34016'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/frontend/web/index.php'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516176823.003
+    'REQUEST_TIME' => 1516176823
+]
+2018-01-17 08:15:57 [10.240.1.198][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.198
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:82
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:141
+2018-01-17 08:15:57 [10.240.1.198][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.198
+2018-01-17 08:15:57 [10.240.1.198][-][-][info][application] $_GET = [
+    'r' => 'site/about'
+]
+
+$_COOKIE = [
+    'advanced-frontend' => 'oesje1rmf759op6cunf4ltbsl0'
+    '_csrf-frontend' => '820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J\";}'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io:80'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://sikosan-lutfi0711.c9users.io/frontend/web/index.php'
+    'HTTP_COOKIE' => 'advanced-frontend=oesje1rmf759op6cunf4ltbsl0; _csrf-frontend=820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J%22%3B%7D; XDEBUG_SESSION=cloud9ide'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_X_FORWARDED_PROTO' => 'http'
+    'HTTP_X_FORWARDED_PORT' => '80'
+    'HTTP_X_FORWARDED_FOR' => '36.78.130.219'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '10.240.1.198'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '41248'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Fabout'
+    'REQUEST_URI' => '/frontend/web/index.php?r=site%2Fabout'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516176957.222
+    'REQUEST_TIME' => 1516176957
+]
+2018-01-17 08:21:29 [10.240.1.20][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.20
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:82
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:75
+2018-01-17 08:21:29 [10.240.1.20][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.20
+2018-01-17 08:21:29 [10.240.1.20][-][-][info][application] $_COOKIE = [
+    'advanced-frontend' => 'oesje1rmf759op6cunf4ltbsl0'
+    '_csrf-frontend' => '820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J\";}'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io:80'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_COOKIE' => 'advanced-frontend=oesje1rmf759op6cunf4ltbsl0; _csrf-frontend=820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J%22%3B%7D; XDEBUG_SESSION=cloud9ide'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_X_FORWARDED_PROTO' => 'http'
+    'HTTP_X_FORWARDED_PORT' => '80'
+    'HTTP_X_FORWARDED_FOR' => '180.246.81.116'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '10.240.1.20'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '56698'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/frontend/web/'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516177289.279
+    'REQUEST_TIME' => 1516177289
+]
+2018-01-17 08:28:23 [10.240.1.198][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.198
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:82
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:162
+2018-01-17 08:28:23 [10.240.1.198][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.198
+2018-01-17 08:28:23 [10.240.1.198][-][-][info][application] $_GET = [
+    'r' => 'site/signup'
+]
+
+$_COOKIE = [
+    'advanced-frontend' => 'oesje1rmf759op6cunf4ltbsl0'
+    '_csrf-frontend' => '820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J\";}'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io:80'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://sikosan-lutfi0711.c9users.io/frontend/web/'
+    'HTTP_COOKIE' => 'advanced-frontend=oesje1rmf759op6cunf4ltbsl0; _csrf-frontend=820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J%22%3B%7D; XDEBUG_SESSION=cloud9ide'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_X_FORWARDED_PROTO' => 'http'
+    'HTTP_X_FORWARDED_PORT' => '80'
+    'HTTP_X_FORWARDED_FOR' => '180.246.81.116'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '10.240.1.198'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '55434'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Fsignup'
+    'REQUEST_URI' => '/frontend/web/index.php?r=site%2Fsignup'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516177703.525
+    'REQUEST_TIME' => 1516177703
+]
+2018-01-17 08:28:26 [10.240.0.69][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.0.69
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:82
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:75
+2018-01-17 08:28:26 [10.240.0.69][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.0.69
+2018-01-17 08:28:26 [10.240.0.69][-][-][info][application] $_GET = [
+    'r' => 'site/index'
+]
+
+$_COOKIE = [
+    'advanced-frontend' => 'oesje1rmf759op6cunf4ltbsl0'
+    '_csrf-frontend' => '820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J\";}'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io:80'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://sikosan-lutfi0711.c9users.io/frontend/web/index.php?r=site%2Fsignup'
+    'HTTP_COOKIE' => 'advanced-frontend=oesje1rmf759op6cunf4ltbsl0; _csrf-frontend=820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J%22%3B%7D; XDEBUG_SESSION=cloud9ide'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_X_FORWARDED_PROTO' => 'http'
+    'HTTP_X_FORWARDED_PORT' => '80'
+    'HTTP_X_FORWARDED_FOR' => '180.246.81.116'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '10.240.0.69'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '44278'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Findex'
+    'REQUEST_URI' => '/frontend/web/index.php?r=site%2Findex'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516177706.956
+    'REQUEST_TIME' => 1516177706
+]
+2018-01-17 08:28:37 [10.240.1.198][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.198
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:82
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:162
+2018-01-17 08:28:37 [10.240.1.198][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.198
+2018-01-17 08:28:37 [10.240.1.198][-][-][info][application] $_GET = [
+    'r' => 'site/signup'
+]
+
+$_COOKIE = [
+    'advanced-frontend' => 'oesje1rmf759op6cunf4ltbsl0'
+    '_csrf-frontend' => '820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J\";}'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io:80'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://sikosan-lutfi0711.c9users.io/frontend/web/'
+    'HTTP_COOKIE' => 'advanced-frontend=oesje1rmf759op6cunf4ltbsl0; _csrf-frontend=820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J%22%3B%7D; XDEBUG_SESSION=cloud9ide'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_X_FORWARDED_PROTO' => 'http'
+    'HTTP_X_FORWARDED_PORT' => '80'
+    'HTTP_X_FORWARDED_FOR' => '180.246.100.20'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '10.240.1.198'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '55574'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Fsignup'
+    'REQUEST_URI' => '/frontend/web/index.php?r=site%2Fsignup'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516177717.4
+    'REQUEST_TIME' => 1516177717
+]
+2018-01-17 08:29:42 [10.240.1.206][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.206
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:82
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:130
+2018-01-17 08:29:42 [10.240.1.206][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.206
+2018-01-17 08:29:42 [10.240.1.206][-][-][info][application] $_GET = [
+    'r' => 'site/contact'
+]
+
+$_COOKIE = [
+    'advanced-frontend' => 'oesje1rmf759op6cunf4ltbsl0'
+    '_csrf-frontend' => '820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J\";}'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'fegdce'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io:80'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://sikosan-lutfi0711.c9users.io/frontend/web/index.php?r=site%2Fsignup'
+    'HTTP_COOKIE' => 'advanced-frontend=oesje1rmf759op6cunf4ltbsl0; _csrf-frontend=820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J%22%3B%7D; XDEBUG_SESSION=cloud9ide'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_X_FORWARDED_PROTO' => 'http'
+    'HTTP_X_FORWARDED_PORT' => '80'
+    'HTTP_X_FORWARDED_FOR' => '36.78.130.219'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '10.240.1.206'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '43226'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Fcontact'
+    'REQUEST_URI' => '/frontend/web/index.php?r=site%2Fcontact'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516177782.204
+    'REQUEST_TIME' => 1516177782
+]
+2018-01-17 08:29:43 [10.240.0.69][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.0.69
+2018-01-17 08:29:43 [10.240.0.69][-][-][info][application] $_GET = [
+    'r' => 'site/captcha'
+    'v' => '5a5f097637907'
+]
+
+$_COOKIE = [
+    'advanced-frontend' => 'oesje1rmf759op6cunf4ltbsl0'
+    '_csrf-frontend' => '820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J\";}'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'fegdce'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io:80'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://sikosan-lutfi0711.c9users.io/frontend/web/index.php?r=site%2Fcontact'
+    'HTTP_COOKIE' => 'advanced-frontend=oesje1rmf759op6cunf4ltbsl0; _csrf-frontend=820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J%22%3B%7D; XDEBUG_SESSION=cloud9ide'
+    'HTTP_X_FORWARDED_PROTO' => 'http'
+    'HTTP_X_FORWARDED_PORT' => '80'
+    'HTTP_X_FORWARDED_FOR' => '36.78.130.219'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '10.240.0.69'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '46496'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Fcaptcha&v=5a5f097637907'
+    'REQUEST_URI' => '/frontend/web/index.php?r=site%2Fcaptcha&v=5a5f097637907'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516177783.011
+    'REQUEST_TIME' => 1516177783
+]
+2018-01-17 08:29:44 [10.240.1.8][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.8
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:82
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:75
+2018-01-17 08:29:44 [10.240.1.8][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.8
+2018-01-17 08:29:43 [10.240.1.8][-][-][info][application] $_COOKIE = [
+    'advanced-frontend' => 'oesje1rmf759op6cunf4ltbsl0'
+    '_csrf-frontend' => '820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J\";}'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'fegdce'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io:80'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://sikosan-lutfi0711.c9users.io/frontend/web/index.php?r=site%2Fcontact'
+    'HTTP_COOKIE' => 'advanced-frontend=oesje1rmf759op6cunf4ltbsl0; _csrf-frontend=820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J%22%3B%7D; XDEBUG_SESSION=cloud9ide'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_X_FORWARDED_PROTO' => 'http'
+    'HTTP_X_FORWARDED_PORT' => '80'
+    'HTTP_X_FORWARDED_FOR' => '36.78.130.219'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '10.240.1.8'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '56224'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/frontend/web/index.php'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516177783.998
+    'REQUEST_TIME' => 1516177783
+]
+2018-01-17 08:31:35 [10.240.1.20][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.20
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:82
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:75
+2018-01-17 08:31:35 [10.240.1.20][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.20
+2018-01-17 08:31:35 [10.240.1.20][-][-][info][application] $_GET = [
+    'r' => 'site/index'
+]
+
+$_COOKIE = [
+    'advanced-frontend' => 'oesje1rmf759op6cunf4ltbsl0'
+    '_csrf-frontend' => '820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J\";}'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'fegdce'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io:80'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://sikosan-lutfi0711.c9users.io/frontend/web/index.php'
+    'HTTP_COOKIE' => 'advanced-frontend=oesje1rmf759op6cunf4ltbsl0; _csrf-frontend=820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J%22%3B%7D; XDEBUG_SESSION=cloud9ide'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_X_FORWARDED_PROTO' => 'http'
+    'HTTP_X_FORWARDED_PORT' => '80'
+    'HTTP_X_FORWARDED_FOR' => '180.246.102.146'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '10.240.1.20'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '39074'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Findex'
+    'REQUEST_URI' => '/frontend/web/index.php?r=site%2Findex'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516177895.331
+    'REQUEST_TIME' => 1516177895
+]
+2018-01-17 08:31:36 [10.240.1.8][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.8
+    in /home/ubuntu/workspace/frontend/views/layouts/main.php:82
+    in /home/ubuntu/workspace/frontend/controllers/SiteController.php:75
+2018-01-17 08:31:36 [10.240.1.8][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.240.1.8
+2018-01-17 08:31:36 [10.240.1.8][-][-][info][application] $_GET = [
+    'r' => 'site/index'
+]
+
+$_COOKIE = [
+    'advanced-frontend' => 'oesje1rmf759op6cunf4ltbsl0'
+    '_csrf-frontend' => '820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J\";}'
+    'XDEBUG_SESSION' => 'cloud9ide'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'fegdce'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'sikosan-lutfi0711.c9users.io:80'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://sikosan-lutfi0711.c9users.io/frontend/web/index.php?r=site%2Findex'
+    'HTTP_COOKIE' => 'advanced-frontend=oesje1rmf759op6cunf4ltbsl0; _csrf-frontend=820b281fcc810aaef42c76cb8af9c89ae9c094afdcf405aae716ffa848194c38a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22Yvyvm1U00S2yrYAClh6mevbWy-_JVH-J%22%3B%7D; XDEBUG_SESSION=cloud9ide'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_X_FORWARDED_PROTO' => 'http'
+    'HTTP_X_FORWARDED_PORT' => '80'
+    'HTTP_X_FORWARDED_FOR' => '180.246.102.146'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/home/ubuntu/.nvm/versions/node/v6.11.2/bin:/usr/local/rvm/gems/ruby-2.4.0/bin:/usr/local/rvm/gems/ruby-2.4.0@global/bin:/usr/local/rvm/rubies/ruby-2.4.0/bin:/mnt/shared/bin:/home/ubuntu/workspace/node_modules/.bin:/home/ubuntu/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/mnt/shared/sbin:/opt/gitl:/opt/go/bin:/mnt/shared/c9/app.nw/bin:/usr/local/rvm/bin'
+    'LD_LIBRARY_PATH' => '~/.c9/local/lib'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.7 (Ubuntu) Server at sikosan-lutfi0711.c9users.io Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Ubuntu)'
+    'SERVER_NAME' => 'sikosan-lutfi0711.c9users.io'
+    'SERVER_ADDR' => '172.17.0.26'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '10.240.1.8'
+    'DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'REQUEST_SCHEME' => 'https'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/ubuntu/workspace'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/home/ubuntu/workspace/frontend/web/index.php'
+    'REMOTE_PORT' => '58872'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Findex'
+    'REQUEST_URI' => '/frontend/web/index.php?r=site%2Findex'
+    'SCRIPT_NAME' => '/frontend/web/index.php'
+    'PHP_SELF' => '/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1516177896.71
+    'REQUEST_TIME' => 1516177896
+]
