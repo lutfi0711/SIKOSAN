@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Aplikasi ini menggunakan yii Framework</title>
 </head>
 <body>
 <h1><strong><center>SIKOSAN</center></strong></h1>
