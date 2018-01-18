@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Jan 17, 2018 at 12:58 PM
+-- Generation Time: Jan 18, 2018 at 02:57 AM
 -- Server version: 5.5.57-0ubuntu0.14.04.1
 -- PHP Version: 5.5.9-1ubuntu4.22
 
@@ -105,6 +105,45 @@ INSERT INTO `migration` (`version`, `apply_time`) VALUES
 -- --------------------------------------------------------
 
 --
+-- Table structure for table `tbl_comment`
+--
+
+CREATE TABLE IF NOT EXISTS `tbl_comment` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `id_kos` int(11) NOT NULL,
+  `comment` text NOT NULL,
+  `create_by` int(11) DEFAULT NULL,
+  `update_by` int(11) DEFAULT NULL,
+  `create_at` datetime DEFAULT NULL,
+  `update_at` datetime DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  UNIQUE KEY `id_kos` (`id_kos`),
+  UNIQUE KEY `id_user` (`create_by`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `tbl_data_kos`
+--
+
+CREATE TABLE IF NOT EXISTS `tbl_data_kos` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `nama` varchar(120) NOT NULL,
+  `biaya` int(255) NOT NULL,
+  `alamat` varchar(500) NOT NULL,
+  `fasilitas` text NOT NULL,
+  `create_by` int(11) DEFAULT NULL,
+  `update_by` int(11) DEFAULT NULL,
+  `create_at` datetime DEFAULT NULL,
+  `update_at` datetime DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  UNIQUE KEY `id_user` (`create_by`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
+
+-- --------------------------------------------------------
+
+--
 -- Table structure for table `user`
 --
 
@@ -153,6 +192,12 @@ ALTER TABLE `auth_item`
 ALTER TABLE `auth_item_child`
   ADD CONSTRAINT `auth_item_child_ibfk_1` FOREIGN KEY (`parent`) REFERENCES `auth_item` (`name`) ON DELETE CASCADE ON UPDATE CASCADE,
   ADD CONSTRAINT `auth_item_child_ibfk_2` FOREIGN KEY (`child`) REFERENCES `auth_item` (`name`) ON DELETE CASCADE ON UPDATE CASCADE;
+
+--
+-- Constraints for table `tbl_comment`
+--
+ALTER TABLE `tbl_comment`
+  ADD CONSTRAINT `tbl_comment_ibfk_1` FOREIGN KEY (`id_kos`) REFERENCES `tbl_data_kos` (`id`);
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
