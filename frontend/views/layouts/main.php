@@ -38,6 +38,7 @@ AppAsset::register($this);
     ]);
     $menuItems = [
         ['label' => '<i class="glyphicon glyphicon-home"></i> Home', 'url' => ['/site/index']],
+        ['label' => '<i class="glyphicon glyphicon-search"></i> Data Kos', 'url' => ['/datakos']],
         ['label' => '<i class="glyphicon glyphicon-cog"></i> About', 'url' => ['/site/about']],
         ['label' => '<i class="glyphicon glyphicon-envelope"></i> Contact', 'url' => ['/site/contact']],
     ];

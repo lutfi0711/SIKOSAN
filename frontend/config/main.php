@@ -59,10 +59,11 @@ return [
     'as access' => [
         'class' => 'mdm\admin\components\AccessControl',
         'allowActions' => [
-            'site/*',
-            'admin/*',
-            'some-controller/some-action',
-            'gii/*'
+            '*'
+            //'site/*',
+            //'admin/*',
+            //'some-controller/some-action',
+            //'gii/*'
         ],
     ],
     
