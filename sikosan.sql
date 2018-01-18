@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Jan 18, 2018 at 02:57 AM
+-- Generation Time: Jan 18, 2018 at 08:12 AM
 -- Server version: 5.5.57-0ubuntu0.14.04.1
 -- PHP Version: 5.5.9-1ubuntu4.22
 
@@ -139,7 +139,16 @@ CREATE TABLE IF NOT EXISTS `tbl_data_kos` (
   `update_at` datetime DEFAULT NULL,
   PRIMARY KEY (`id`),
   UNIQUE KEY `id_user` (`create_by`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=12 ;
+
+--
+-- Dumping data for table `tbl_data_kos`
+--
+
+INSERT INTO `tbl_data_kos` (`id`, `nama`, `biaya`, `alamat`, `fasilitas`, `create_by`, `update_by`, `create_at`, `update_at`) VALUES
+(1, 'Griya Mandiri', 200000, 'Jepara', 'Alakadarnya', NULL, NULL, '2018-01-18 03:11:54', '2018-01-18 03:11:54'),
+(3, 'Wisma harmony', 225000, 'Tahunan', 'Kamar isi 2 orang\r\nBantal\r\nGuling\r\nAlmari\r\nKipas angin\r\nDapur\r\nKamar mandi luar\r\nTv umum', 4, 4, '2018-01-18 03:37:35', '2018-01-18 03:37:35'),
+(11, 'Griya Abadi', 200000, 'Disini', 'Seperti Itu', 1, 1, '2018-01-18 04:09:12', '2018-01-18 04:09:12');
 
 -- --------------------------------------------------------
 
@@ -161,14 +170,19 @@ CREATE TABLE IF NOT EXISTS `user` (
   UNIQUE KEY `username` (`username`),
   UNIQUE KEY `email` (`email`),
   UNIQUE KEY `password_reset_token` (`password_reset_token`)
-) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=2 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=7 ;
 
 --
 -- Dumping data for table `user`
 --
 
 INSERT INTO `user` (`id`, `username`, `auth_key`, `password_hash`, `password_reset_token`, `email`, `status`, `created_at`, `updated_at`) VALUES
-(1, 'lutfi0711', 'h1ySjxVZCCDlK-WM9oUBAPssyJpTV-Gj', '$2y$13$.cDULihMEmye4HDAaAQ9mOyykkmQLV.fR8NumzVfo0CIh7r3sLuVy', NULL, 'lutfi0711@yahoo.co.id', 10, 1516098411, 1516098411);
+(1, 'lutfi0711', 'h1ySjxVZCCDlK-WM9oUBAPssyJpTV-Gj', '$2y$13$.cDULihMEmye4HDAaAQ9mOyykkmQLV.fR8NumzVfo0CIh7r3sLuVy', NULL, 'lutfi0711@yahoo.co.id', 10, 1516098411, 1516098411),
+(2, 'hesti', 's_lkhSo8NdVQ4PsEjdUTyZa7T6g3tEmy', '$2y$13$y9.uzRr5pKcwmdIVLrjBMOnyu/biw691qqPijeuZpW9DVUR6Rnb/m', NULL, 'hestimayangsari97@gmail.com', 10, 1516245774, 1516245774),
+(3, 'afnan', 'uS26tY4HttYW1swZVdm9ffzK55FbVwMR', '$2y$13$jyK3fuM3TRijOcfdhuH5bu7XSmsYxi4Zr0nPHH9lrcFKmAZ62iE4K', NULL, 'afnanistikmal1593@gmail.com', 10, 1516246043, 1516246043),
+(4, 'Khois', 'kc9wQ0Hz1ZEfVbWtay0Y4a6qjhe1JCFg', '$2y$13$lQx4kF6TNQMKySkAF8bPluWNbOtTfFXog1/fHpMvPlsx64LYxhSS.', NULL, 'Khoisrotun@gmail.com', 10, 1516246546, 1516246546),
+(5, 'hestim', '7nH2nTS361Te--SIWgCx2d3b3SESELGD', '$2y$13$WGZSMkv2UXhrOYy8GA5K2u2.Di1lBNTAjFU04pefaQdAM7TnynKkK', NULL, 'hestimayangsari6@gmail.com', 10, 1516246574, 1516246574),
+(6, 'puput cahyaningsih', 'OY4l9l5ptVu1FzGoNlINs6cgfs62Y02C', '$2y$13$tr3s4btc2xvzC.XI1nvy9.A87iWRxtHySC4RKJRSGQdkfQlkJgtMm', NULL, 'puputcahyaningsih6@gmail.com', 10, 1516246692, 1516246692);
 
 --
 -- Constraints for dumped tables
