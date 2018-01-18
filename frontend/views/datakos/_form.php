@@ -20,14 +20,6 @@ use yii\widgets\ActiveForm;
 
     <?= $form->field($model, 'fasilitas')->textarea(['rows' => 6]) ?>
 
-    <?= $form->field($model, 'create_by')->textInput() ?>
-
-    <?= $form->field($model, 'update_by')->textInput() ?>
-
-    <?= $form->field($model, 'create_at')->textInput() ?>
-
-    <?= $form->field($model, 'update_at')->textInput() ?>
-
     <div class="form-group">
         <?= Html::submitButton('Save', ['class' => 'btn btn-success']) ?>
     </div>

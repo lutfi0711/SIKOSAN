@@ -3,7 +3,9 @@
 namespace frontend\models;
 
 use Yii;
-
+use yii\behaviors\BlameableBehavior;
+use yii\behaviors\TimestampBehavior;
+use yii\db\Expression;
 /**
  * This is the model class for table "tbl_data_kos".
  *
@@ -48,12 +50,29 @@ class Datakos extends \yii\db\ActiveRecord
     /**
      * @inheritdoc
      */
+    public function behaviors() 
+    {
+        return [
+        [
+            'class' => BlameableBehavior::className(),
+            'createdByAttribute' => 'create_by',
+            'updatedByAttribute' => 'update_by',
+        ],
+        [
+            'class' => TimestampBehavior::className(),
+            'createdAtAttribute' => 'create_at',
+            'updatedAtAttribute' => 'update_at',
+            'value' => new Expression('NOW()'),
+        ],
+    ];
+    }   
+    
     public function attributeLabels()
     {
         return [
             'id' => 'ID',
-            'nama' => 'Nama',
-            'biaya' => 'Biaya',
+            'nama' => 'Nama Kos',
+            'biaya' => 'Biaya Perbulan',
             'alamat' => 'Alamat',
             'fasilitas' => 'Fasilitas',
             'create_by' => 'Create By',

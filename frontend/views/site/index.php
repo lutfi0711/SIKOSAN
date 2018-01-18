@@ -15,7 +15,7 @@ $this->title = 'SIKOSAN';
             <?= 
                 Html::a(
                             '<i class="glyphicon glyphicon-search"></i> Mulai Cari', 
-                            ['/site/index'], 
+                            ['/datakos/index'], 
                             ['class'=>'btn btn-lg btn-success']
                         ) 
             ?>
